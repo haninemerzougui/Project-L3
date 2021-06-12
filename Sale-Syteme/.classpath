@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-beanutils-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/jfoenix.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/JFXMaterial.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/JFXMaterialDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-examples-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-excelant-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/point-of-sale-system-master/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/Documents/PFE/jasperreports-6.17.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
